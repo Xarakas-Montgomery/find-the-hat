@@ -47,5 +47,10 @@ In main.js there are some uncommented parts. I updated the mini-game to be on th
 - *Fixed* means you will always start at 0,0 which is at the top left corner of the whole field.
 - *Random* means everytime you start a new game, the player's location will be totally random through the whole field.
 
+### *FIXED LOCATION*
+[Fixed Location](fixed-location.jpeg)
+### *RANDOM LOCATION*
 
-
+### *EASY MODE*
+[Easy Mode](easy-mode.jpeg)
+### *HARD MODE*
