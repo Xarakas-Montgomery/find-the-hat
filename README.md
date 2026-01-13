@@ -1,5 +1,9 @@
 # CODECADEMY PROJECT FIND THE HAT
 
+![Preview](Readme-pictures/preview1.jpeg)
+![Preview](Readme-pictures/preview2.jpeg)
+![Preview](Readme-pictures/preview3.jpeg)
+
 ## TABLE OF CONTENTS
 
 - [Content](#content)
@@ -48,7 +52,11 @@ In main.js there are some commented parts. I updated the mini-game to be on the 
 - *Fixed* means you will always start at 0,0 which is at the top left corner of the whole field.
 - *Random* means everytime you start a new game, the player's location will be totally random through the whole field.
 
+### EASY MODE
 ![Easy Mode](Readme-pictures/easy-mode.jpeg)
+
+### FIXED LOCATION
+![Fixed Location](Readme-pictures/fixed-location.jpeg)
 
 ## Start
 
