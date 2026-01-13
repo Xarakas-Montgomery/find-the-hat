@@ -45,6 +45,6 @@ Random means everytime you start a new game, the player's location will be total
 ## PLACING THE PLAYER'S STARTING POSITION AT 0,0 OR RANDOM:
 
 ## SWITCHING TO EASY MODE:
-![Easy Mode](Image 13-01-2026 at 15.26.jpeg)
+![Easy Mode](easy-mode.jpeg)
 
 
