@@ -48,6 +48,8 @@ In main.js there are some commented parts. I updated the mini-game to be on the 
 - *Fixed* means you will always start at 0,0 which is at the top left corner of the whole field.
 - *Random* means everytime you start a new game, the player's location will be totally random through the whole field.
 
+![Easy Mode](Readme%20pictures/easy-mode.jpeg)
+
 ## Start
 
 To start game type on the terminal **node main.js**
