@@ -2,13 +2,10 @@
 
 ## TABLE OF CONTENTS
 
-- [Content] (#content)
-- [Rules] (#Rules)
-- [Commands] (#Commands)
-- [Switch Difficulty] (#Difficulty)
-
-# IMPORTANT NOTE
-USE ## TestMain.js INSTEAD OF ## Main.js TO RUN THE APP BECAUSE ## Main.js IS UNCOMPLETED
+- [Content](#content)
+- [Rules](#rules)
+- [Commands](#commands)
+- [Switch Difficulty](#difficulty)
 
 ## Content
 
@@ -24,8 +21,8 @@ The rules are simple:
 - Hat's Location: ^
 - Holes' Location: O
 
-The Player MUST reach the # Hat's Location so that it can win the game avoiding the holes around the path.
-Check the [Commands] (#Commands) to know how to move throught the available #Fields.
+The Player MUST reach the **Hat's Location** so that it can win the game avoiding the holes around the path.
+Check the [Commands](#commands) to know how to move throught the available #Fields.
 
 ## Commands
 
@@ -41,6 +38,13 @@ The player's icon will move following your own commands
 ## Difficulty
 
 I. **Uncomment Code**
-In testmain.js there are some commented parts of code. Uncomment some parts to switch difficulty. The Hard mode will create make 2 holes appear everytime you move through the available parts:
+In main.js there are some uncommented parts. I updated the mini-game to be on the hard mode and at a random starting position but since this app has different settings, you can uncomment some parts of the code below to switch on easy mode, which means no holes are created during your moves and you can also set your starting position fixed or random.
+Fixed means you will always start at 0,0 which is at the top left corner of the whole field.
+Random means everytime you start a new game, the player's location will be totally random through the whole field.
+
+## PLACING THE PLAYER'S STARTING POSITION AT 0,0 OR RANDOM:
+
+## SWITCHING TO EASY MODE:
+![Easy Mode](Image 13-01-2026 at 15.26.jpeg)
 
 
