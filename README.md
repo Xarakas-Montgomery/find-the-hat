@@ -2,18 +2,18 @@
 
 ## TABLE OF CONTENTS
 
-- [Content] (#Content)
+- [Content] (#content)
 - [Rules] (#Rules)
 - [Commands] (#Commands)
 - [Switch Difficulty] (#Difficulty)
+
+# IMPORTANT NOTE
+USE ## TestMain.js INSTEAD OF ## Main.js TO RUN THE APP BECAUSE ## Main.js IS UNCOMPLETED
 
 ## Content
 
 I. **Project Context** 
 This is a mini-terminal game where you would need to create a path to the hat so you can win the game.
-
-# IMPORTANT NOTE
-USE ## TestMain.js INSTEAD OF ## Main.js TO RUN THE APP BECAUSE ## Main.js IS UNCOMPLET
 
 ## Rules
 
