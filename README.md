@@ -6,6 +6,7 @@
 - [Rules](#rules)
 - [Commands](#commands)
 - [Switch Difficulty](#difficulty)
+- [Start game](#startGame)
 
 ## Content
 
@@ -42,16 +43,11 @@ The player's icon will move following your own commands
 
 I. **Uncomment Code**
 
-In main.js there are some uncommented parts. I updated the mini-game to be on the hard mode and at a random starting position but since this app has different settings, you can uncomment some parts of the code to switch on easy mode, which means no holes are created during your moves and you can also set your starting position fixed or random
+In main.js there are some commented parts. I updated the mini-game to be on the hard mode and at a random starting position but since this app has different settings, you can uncomment some parts of the code to switch on easy mode, which means no holes are created during your moves and you can also set your starting position fixed or random
 
 - *Fixed* means you will always start at 0,0 which is at the top left corner of the whole field.
 - *Random* means everytime you start a new game, the player's location will be totally random through the whole field.
 
-### *FIXED LOCATION*
-[Fixed Location]
-<img src="easy-mode.jpeg">
-### *RANDOM LOCATION*
+## Start Game
 
-### *EASY MODE*
-[Easy Mode](easy-mode.jpeg)
-### *HARD MODE*
+To start game type on the terminal **node main.js**
