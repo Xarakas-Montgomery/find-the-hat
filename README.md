@@ -6,7 +6,7 @@
 - [Rules](#rules)
 - [Commands](#commands)
 - [Switch Difficulty](#difficulty)
-- [Start game](#startGame)
+- [Start game](#start)
 
 ## Content
 
