@@ -45,7 +45,17 @@ The player's icon will move following your own commands
 
 ## Difficulty
 
-I. **Uncomment Code**
+The difficulty of this game is on easy and hard and you can also set the position on a random part of the field.
+
+**Easy Mode**:
+The player must move through the whole field, avoid the holes to reach the hat's position.
+
+**Hard Mode**:
+Everytime the player moves, 2 random holes will appear in the field.
+
+To switch difficulty, follow the istructions below.
+
+I. **Uncomment Code to switch difficulty**
 
 In main.js there are some commented parts. I updated the mini-game to be on the hard mode and at a random starting position but since this app has different settings, you can uncomment some parts of the code to switch on easy mode, which means no holes are created during your moves and you can also set your starting position fixed or random
 
@@ -57,6 +67,11 @@ In main.js there are some commented parts. I updated the mini-game to be on the 
 
 ### FIXED LOCATION
 ![Fixed Location](Readme-pictures/fixed-location.jpeg)
+
+## IMPORTANT NOTE
+
+This app uses a stric *MAZE SOLVER* which means that whenever you play on the hard mode and new holes appears, you might think that there would be some fields which are impossible to be played meaning the hat won't be reachable cause the holes will prevent you to have a clear path toward it. 
+This is called **BFS** which is a grid traversal algorithm which will avoid impossible games ensuring that everytime a field is created there won't be unreachable or impossible paths to the hat. 
 
 ## Start
 
