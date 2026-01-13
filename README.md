@@ -1,1 +1,1 @@
-[click here]
+#CODECADEMY PROJECT FIND THE HAT
