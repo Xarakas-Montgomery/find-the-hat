@@ -51,3 +51,5 @@ In main.js there are some commented parts. I updated the mini-game to be on the 
 ## Start
 
 To start game type on the terminal **node main.js**
+
+# ENJOY!
