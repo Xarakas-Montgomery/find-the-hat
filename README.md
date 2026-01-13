@@ -48,7 +48,8 @@ In main.js there are some uncommented parts. I updated the mini-game to be on th
 - *Random* means everytime you start a new game, the player's location will be totally random through the whole field.
 
 ### *FIXED LOCATION*
-[Fixed Location](fixed-location.jpeg)
+[Fixed Location]
+<img src="easy-mode.jpeg">
 ### *RANDOM LOCATION*
 
 ### *EASY MODE*
